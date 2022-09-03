@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Credit: [rodi38](https://github.com/rodi38)
+
 
 Last Edited on: 06/08/2022
