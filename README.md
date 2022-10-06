@@ -4,8 +4,6 @@
 
 - :seedling: Atualmente estudando Java
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-rocha-1206351ba/)
-
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
@@ -23,4 +21,4 @@
 ------
 
 
-Last Edited on: 06/08/2022
+Last Edited on: 06/10/2022
