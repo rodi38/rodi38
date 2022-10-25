@@ -14,11 +14,20 @@
 <hr>
 
 ### ⚙️ &nbsp; Git Analytics
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodi38&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=dark&layout=compact" width="410" /></p>
+
+<div>
+  <a href="https://github.com/rodi38">
+    <p><img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodi38&show_icons=true&theme=dark&show_icons=true"/></p>
+  </a>
+   <a href="https://github.com/rodi38">
+    <p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&layout=compact&langs_count=7&theme=dark"/>
+   </a>
+  </p>
+</div>
+
+
 
 ------
 
 
-Last Edited on: 24/10/2022
+Last Edited on: 25/10/2022
