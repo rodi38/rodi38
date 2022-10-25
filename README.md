@@ -17,10 +17,10 @@
 
 <div>
   <a href="https://github.com/rodi38">
-    <p><img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodi38&show_icons=true&theme=dark&show_icons=true"/></p>
+    <p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=rodi38&show_icons=true&theme=dark&show_icons=true"/></p>
   </a>
    <a href="https://github.com/rodi38">
-    <p><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&layout=compact&langs_count=7&theme=dark"/>
+    <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&layout=compact&langs_count=7&theme=dark"/>
    </a>
   </p>
 </div>
