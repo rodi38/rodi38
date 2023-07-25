@@ -1,14 +1,38 @@
 <h1 align="center"> Me chamo Rodrigo, seja bem vindo ao meu github<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
-<hr>
-
-### 🛠 &nbsp;
-
-<!--| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> -->  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="50"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="50"> <img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" alt="intelij" width="50">
 
 <hr>
+<div>
+  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width=50>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" width=50>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" width=50>
+  <img src="https://www.svgrepo.com/show/373969/php2.svg" width=50>
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" width=50>
+  <img src="https://www.svgrepo.com/show/353724/express.svg" width=50>
+  
+</div>
+<hr>
+<div>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width=50>
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width=50>
+</div>
+<hr>
+<div>
+  <img src="https://img.icons8.com/?size=512&id=71257&format=png" width="50">
+  <img src="https://img.icons8.com/?size=512&id=bzf0DqjXFHIW&format=png" width=50>
+  <img src="https://www.svgrepo.com/show/353579/codeigniter.svg" width=50>
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" width=50>
+</div>
+<hr>
+
+<div>
+  <img src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" width=50>
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width=50>
+  
+</div>
+<hr>
+
 
 ### ⚙️ &nbsp; Git Analytics
 
@@ -24,4 +48,4 @@
 ------
 
 
-Last Edited on: 15/12/2022
+Last Edited on: 25/07/2023
