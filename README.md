@@ -5,7 +5,6 @@
 <hr>
 <div>
   <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width=50>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" width=50>
   <img src="https://www.svgrepo.com/show/452234/java.svg" width=50>
   <img src="https://www.svgrepo.com/show/373969/php2.svg" width=50>
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" width=50>
@@ -48,4 +47,4 @@
 ------
 
 
-Last Edited on: 25/07/2023
+Last Edited on: 21/10/2023
