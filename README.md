@@ -35,16 +35,12 @@
 
 ### ⚙️ &nbsp; Git Analytics
 
-<div>
-  <a href="https://github.com/rodi38">
-    <p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=rodi38&show_icons=true&theme=dark&show_icons=true"/></p>
-    <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&layout=compact&langs_count=8&theme=dark&show_icons=true"/>
-  </a>
-</div>
 
-
+![rodi38's Stats](https://github-readme-stats.vercel.app/api?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br>
+![rodi38's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodi38&theme=vue-dark&hide_border=true)<br>
+![rodi38's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ------
 
 
-Last Edited on: 21/10/2023
+Last Edited on: 2024/05/06
