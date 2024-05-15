@@ -36,8 +36,8 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img height=300 src="https://github-readme-stats.vercel.app/api?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=450"/> <br>
-    <img height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=rodi38&theme=vue-dark&hide_border=true&card_width=450" />
-    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=382" />
+    <img height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=rodi38&theme=vue-dark&hide_border=true&count_private=true&card_width=450" />
+    <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=382" />
     
 
   </div>
