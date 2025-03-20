@@ -33,14 +33,14 @@
 <hr>
 
 
-<div>
+<div  class="flex-container">
   <div style="display: flex; align-items: flex-start; flex-direction: column;">
     <div>
-        <img height=300 src="https://github-readme-stats.vercel.app/api?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=false&card_width=450"/>
-        <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=382" />
+        <img height=300 src="https://github-readme-stats.vercel.app/api?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=false&card_width=680"/>
+        <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=650" />
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=382"/>
+      <img width=1200 src="https://github-readme-stats.vercel.app/api/wakatime?username=rodi38&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact&card_width=1200"/>
     </div>
   </div>
   
@@ -51,4 +51,4 @@
 ------
 
 
-Last Edited on: 2024/11/09
+Last Edited on: 2025/03/20
